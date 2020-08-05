@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Roel Schellens
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: WVD tech enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Community
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a WVD Program Manager working for the Microsoft Customer Accaleration Team, working with large and stretgic customers .
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Windows Virtual Desktop
+- Remote Workplace
+- Desktop as a Serive
+- Modern WOrkplace
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Bachelor of Information Technology 
+    institution: Hogeschool of Utrecht
+    year: 2002
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
