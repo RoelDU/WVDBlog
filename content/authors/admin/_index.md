@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: WVD Tech Enthusiast (daytime job: WVD Program Manager)
+role: WVD Enthusiast
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a WVD Program Manager working for the Microsoft Customer Accaleration Team, working with large and stretgic customers .
+bio: I'm a WVD Enthusiast. In my professional life I'm a WVD Program Manager at Microsoft. The content published here are private. Please see my Privacy Policy below. 
 
 interests:
 - Windows Virtual Desktop
@@ -67,7 +67,4 @@ user_groups:
 #- Researchers
 #- Visitors
 ---
-
-From my Linkedn profile: 
-Roel Schellens has been with Microsoft for 20 years. In his previous roles Roel worked as a Principal Consultant/Architect on infrastructure solutions for large enterprises and public sector organizations. Previous roles within Microsoft were an Architect in the World Wide Windows and Devices COE responsible for Technical Architecture/Oversight, Field Readiness and Windows early deployment programs with a focus on Enterprise Mobility. Roel was a Technical Program Manager and responsible for the execution of the Windows 10 TAP and First Wave programs helping strategic customers of Microsoft with the early adoption of Enterprise Mobility solutions using the next version of Microsoft M365.
-Since July 2019 Roel became a Program Manager in the CxE/CAT Product Group, responsible for executing on early adopters of Windows 10 and Office Pro Plus and providing insights back to engineering to improve and learn from large deployment experiences. Since the release of Windows Virtual Desktop (WVD) in Nov 2019, Roel moved role and became WVD CAT Program Manager, responsible for helping large strategic customers in the APJ time zone with the adopting WVD Native. 
+I'm a Remote Work and Modern Workplace Enthusiast. In my professional life I'm representing the Windows Virtual Desktop (WVD) engineering Customer Acceleration Team (CAT) in the APJ timezone. Partnering with strategic enterprise customers to enable successful deployments of Windows Virtual Desktop and leverage their feedback and insights to improve the existing product and develop new product capabilities. I have held a number of roles previously within Microsoft of which all in the Modern Workplace and Remote Workplace area which can be found on my Linkdin profile.
